@@ -1,6 +1,7 @@
 
 # Title: Modeling Food Insecurity in Iowa
-### Authors: Anna Thompson, Amelia Eibert, Zofia Landowska, and Nicholas Nix
+### Author: Anna Thompson
+### Group Members: Amelia Eibert, Zofia Landowska, and Nicholas Nix
 ### Date: 2024-12-10
 
 
